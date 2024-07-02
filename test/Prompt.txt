@@ -1,0 +1,5 @@
+I have a list of words from Latvian periodicals issued from 1823 to 1936. Letters are already converted to Antiqua and letter "s" is denoted with "ẜ" (unicode U+1E9C); "S" with "Ꞩ" (unicode U+A7A9); "z" with "ſ" (unicode U+017F); "Z" with "S" and long vowels with a vowel followed by "h" or with various diacritic marks. But still, these words are in old orthography. Please, help me to convert them to modern Latvian. I want you to take each one of these words and return them in both unconverted and converted form in a list of two columns and no additional information can be added. Here is the list of words:
+garrus
+raujàs
+maſeem
+...

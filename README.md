@@ -1,4 +1,6 @@
-# Master-Thesis
-Thesis paper; Python notebook and data used for testing thesis tool; Python notebook for exception wordlist creation which is needed for the conversion tool.
+## Master-Thesis
+
+This repository contains: thesis paper; Python notebook and data used for testing thesis tool and for making exception wordlists needed for the conversion tool.
+
 The thesis tool can be found in here:
 https://github.com/ArtisOzols/vd-jd
